@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dedoyin01
-- 👀 I’m interested in everything data machine Learning
-- 🌱 I’m currently learning Statistics for data science and mathenatics for machine learning
+- 👀 I’m interested in everything Data
+- 🌱 I’m currently learning Sql and R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at adedoyintiamiyu@gmail.com
 
