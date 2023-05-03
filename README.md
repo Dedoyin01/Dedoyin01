@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Dedoyin01
-- 👀 I’m interested in everything Data
-- 🌱 I’m currently learning Sql and R
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Adedoyin,a data analyst skilled in Excel, SQL, R and PowerBI, with a passion for solving complex data problems and providing quality recomendations to stakeholders and business orgranizations
 - 📫 How to reach me at adedoyintiamiyu@gmail.com
 
 <!---
